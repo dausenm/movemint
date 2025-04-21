@@ -1,0 +1,3 @@
+/home/dausen/Documents/movemint/build/CMakeFiles/Movemint.dir
+/home/dausen/Documents/movemint/build/CMakeFiles/edit_cache.dir
+/home/dausen/Documents/movemint/build/CMakeFiles/rebuild_cache.dir
